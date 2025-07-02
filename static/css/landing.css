@@ -92,9 +92,8 @@ body {
     transition: all var(--transition-normal);
 }
 
-/* =================================
-   Loading Screen
-   ================================= */
+/*
+   Loading Screen*/
 
 .loading-screen {
     position: fixed;
