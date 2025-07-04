@@ -54,7 +54,7 @@ Go to:
 http://0.0.0.0:5000
 ```
 
-The site will load your interactive portfolio in the browser.
+The site will load your interactive portfolio in the browser and will let you know about me and my works.
 
 ---
 
