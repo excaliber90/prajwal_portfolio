@@ -214,7 +214,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 10%;
     padding: var(--spacing-lg) var(--spacing-xl);
     background: var(--surface-color);
     backdrop-filter: blur(10px);
@@ -227,7 +227,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1400px;
+    max-width: 100px;
     margin: 0 auto;
 }
 
